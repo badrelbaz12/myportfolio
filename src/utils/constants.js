@@ -596,13 +596,13 @@ export const projectsData = [
 
 export const socialMediaLinks = [
   {
-    href: "https://github.com/BoussemousseT",
+    href: "https://www.facebook.com/badrelbaz12/",
     icon: FaGithub,
     backgroundColor: "gray.700",
     hoverColor: "gray.600",
   },
   {
-    href: "https://www.linkedin.com/in/t-boussemousse/",
+    href: "https://www.linkedin.com/in/badrelbaz/",
     icon: FaLinkedin,
     backgroundColor: "social.linkedin",
     hoverColor: "social.linkedinHover",
