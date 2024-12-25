@@ -425,7 +425,7 @@ export const education = [
 ];
 
 export const certificat = [
-    {
+  /*  {
       company: "angelaUdemy",
       designation: "angelaUdemyDomaine",
       duration: "angelaUdemyDate",
@@ -436,7 +436,7 @@ export const certificat = [
         <>
         </>
       ),
-    },
+    },*/
 
     {
       company: "angelaCoursera",
@@ -445,6 +445,19 @@ export const certificat = [
      // lenght: "angelaCourseraLenght",
       companyImg: "coursera.png",
       link: "https://coursera.org/share/1217abf0c5df792631fef9b6b7273883",
+      description: (
+        <>
+        </>
+      ),
+    },
+
+    {
+      company: "angelaCoursera2",
+      designation: "angelaCourseraDomaine2",
+     // duration: "angelaCourseraDate",
+     // lenght: "angelaCourseraLenght",
+      companyImg: "coursera.png",
+      link: "https://coursera.org/share/328372b7330e0d9ac030fb9778c3630e",
       description: (
         <>
         </>
