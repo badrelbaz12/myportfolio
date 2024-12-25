@@ -33,7 +33,7 @@ export default function Header() {
           fontSize="lg"
           _hover={{ textDecoration: "none", color:"blueTheme.navLinkActive",transition:"all .5s ease-in-out" }}
         >
-        TAOUFIK BOUSSEMOUSSE {"</>"} {" "}
+        BADR ELBAZ {"</>"} {" "}
         </Link>
 
         <HStack as="nav" className="header-media" spacing="5" >
