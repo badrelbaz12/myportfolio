@@ -90,6 +90,10 @@ export const interestsData = [
     interest: "interest7",
     icon: FaGamepad,
   },
+  {
+    interest: "interest8",
+    icon: FaGamepad,
+  },
 
 ];
 
