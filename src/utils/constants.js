@@ -441,10 +441,10 @@ export const certificat = [
     {
       company: "angelaCoursera",
       designation: "angelaCourseraDomaine",
-      duration: "angelaCourseraDate",
+      //duration: "angelaCourseraDate",
       lenght: "angelaCourseraLenght",
       companyImg: "coursera.png",
-      link: "https://www.udemy.com/certificate/UC-c702130b-55dc-403c-8d85-38256e87d441/",
+      link: "https://coursera.org/share/1217abf0c5df792631fef9b6b7273883",
       description: (
         <>
         </>
