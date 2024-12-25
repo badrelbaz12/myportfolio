@@ -444,7 +444,7 @@ export const certificat = [
       duration: "angelaCourseraDate",
       lenght: "angelaCourseraLenght",
       companyImg: "coursera.png",
-      link: "",
+      link: "angelaCourseraLien",
       description: (
         <>
         </>
