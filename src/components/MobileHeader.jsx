@@ -43,7 +43,7 @@ export default function MobileHeader({ pathname }) {
           {i18n.language === 'en' ? (
             <Button onClick={() => i18n.changeLanguage('fr')}>
               <Heading color="social.instagram" fontWeight="extrabold" fontSize="1.3rem">
-                FR
+                DE
               </Heading>
             </Button>
           ) : (
