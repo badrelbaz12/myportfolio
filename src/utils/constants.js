@@ -440,9 +440,9 @@ export const certificat = [
 
     {
       company: "angelaCoursera",
-      designation: "angelaCourseraDomaine",
-      duration: "angelaCourseraDate",
-      lenght: "angelaCourseraLenght",
+      designation: "angelaUdemyDomaine",
+      duration: "angelaUdemyDate",
+      lenght: "angelaUdemyLenght",
       companyImg: "coursera.png",
       link: "https://www.udemy.com/certificate/UC-c702130b-55dc-403c-8d85-38256e87d441/",
       description: (
