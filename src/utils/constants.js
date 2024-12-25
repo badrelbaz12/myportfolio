@@ -440,11 +440,11 @@ export const certificat = [
 
     {
       company: "angelaCoursera",
-      designation: "angelaCourseraDomaine",
-      //duration: "angelaCourseraDate",
+     // designation: "angelaCourseraDomaine",
+      duration: "angelaCourseraDate",
       lenght: "angelaCourseraLenght",
       companyImg: "coursera.png",
-      link: "https://coursera.org/share/1217abf0c5df792631fef9b6b7273883",
+      link: "",
       description: (
         <>
         </>
