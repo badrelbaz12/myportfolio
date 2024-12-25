@@ -5,8 +5,8 @@ import translationEN from "./local/en.json";
 import translationFR from "./local/fr.json";
 
 const resources = {
-  de: {
-    translation: translationDE,
+  en: {
+    translation: translationEN,
   },
   fr: {
     translation: translationFR,
